@@ -1,6 +1,6 @@
 community
 =========
-
+---
 Volatility plugins developed and maintained by the community. See the README file inside each author's subdirectory for a link to their respective GitHub profile page where you can find usage instructions, dependencies, license information, and future updates for the plugins. 
 
 usage
